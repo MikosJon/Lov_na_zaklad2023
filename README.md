@@ -1,7 +1,7 @@
 # Lov na zaklad 2023
 
 1. Izračunaj najmanjše število, deljivo z `21109, 5757, 3333, 627`.
-2. Besedilo v datoteki `tekst.txt` je zamaknjeno za `x` znakov. Koliko je `x`?
+2. Besedilo v datoteki `zamaknjen_tekst.txt` je zamaknjeno za `x` znakov. Koliko je `x`?
 3. Izračunaj izraz `10 pi^2 - ln(sin(20 pi) + 22/7)`. Zaokroži rezultat navzdol.
 4. V datoteki `matrika.txt` sta podani matriki `A` in `B`. Izračunaj `A^2023 B A^2023` in seštej diagonalce. Pri tem si lahko pomagaš s funkcijo v `matrika.py`.
 5. V 5. kitici [Zdravljice](https://sl.wikipedia.org/wiki/Zdravljica) zamenjaj vse samoglasnike z naslednjim. Pri tem gre `u --> a`. Obravnavaj naglasa kot svoji črki. Katere črke se pojavijo `9`-krat? Zloži jih v slovensko besedo.
