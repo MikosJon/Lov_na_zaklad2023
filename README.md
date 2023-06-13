@@ -8,7 +8,7 @@
 6. Pretvori `A5` v število tako, da uporabiš `ord` na vsaki črki in jih zlepiš skupaj. Koliko enic ima dobljeno število v dvojiškem sistemu?
 7. Poišči `A4`-to praštevilo.
 8. Iz datoteke `krogi.txt` preberi prvih `A3` krogov in prvih `A3` točk. Poglej v koliko krogih se nahaja vsaka točka in to seštej. (Bonus: kaj bi naredil, če je `A3` veliko večji, na primer `1000000`?)
-9. Izračunaj `10*A2` Fibonaccijevo število in izračunaj ostanek pri deljenju s `1009`.
+9. Izračunaj `10*A2` Fibonaccijevo število in izračunaj ostanek pri deljenju s `1009`. Začni s `Fib(1) = Fib(2) = 1`.
 10. Začni z `A1^2` in seštej njegove števke. Dobljeno število kvadriraj in seštej njegove števke.
 Ponavljaj, dokler ne prideš do dvomestnega števila.
 11. Seštej `A6` do `A10`.
